@@ -1,0 +1,33 @@
+    1   
+    2  netstat -latump
+    3  sudo apt - get install git
+    4  sudo apt -get install git
+    5  sudo apt - get install git
+    6  sudo apt-get install git
+    7  sudo apt-get install tree
+    8  vim.gitconfig
+    9  vim .gitconfig
+   10  cat .gitconfig
+   11  ls -a
+   12  git status
+   13  vim 
+   14  vim .gitconfig
+   15  mkdir
+   16  mkdir LXS2_RPC
+   17  cd LXS2_RPC
+   18  mkdir history
+   19  mkdir src
+   20  cd 
+   21  history
+   22  cp .bash_history .bash_history.old
+   23  echo " " > .bash_history
+   24  cat .bash_history
+   25  history
+   26  cd LXS2_RPC/
+   27  ls -a
+   28  touch .gitignore
+   29  echo "*~" > .gitignore
+   30  echo "*.swp" >> .gitignore
+   31  touch src/.gitignore
+   32  cat src/.gitignore
+   33  history > history/history-$HOSTNAME-`date +%Y%m%d`
